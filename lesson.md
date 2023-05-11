@@ -52,7 +52,7 @@ Windows: C:\Users\<your username>\suw3
 ### Forking vs Cloning
 Step 1: Visit [this dummy repository url]() on the browser.
 
-Step 2: Fork it as your own repository.
+Step 2: Fork it llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll as your own repository.
 
 Step 3: Launch VS Code and open the folder where you would clone all repositories (this folder is created for the lesson).
 
@@ -60,7 +60,6 @@ Step 4: Start a Terminal within VS Code.
 
 Step 5: Enter the command `git clone <url from the forked repo>` and hit Enter.
 
-Step 6: A new folder should appear the directory.
 
 <img src="./assets/clone-vs-fork.png" />
 
